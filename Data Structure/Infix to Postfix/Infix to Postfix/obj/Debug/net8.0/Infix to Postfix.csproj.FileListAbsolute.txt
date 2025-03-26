@@ -1,0 +1,15 @@
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\bin\Debug\net8.0\Infix to Postfix.exe
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\bin\Debug\net8.0\Infix to Postfix.deps.json
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\bin\Debug\net8.0\Infix to Postfix.runtimeconfig.json
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\bin\Debug\net8.0\Infix to Postfix.dll
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\bin\Debug\net8.0\Infix to Postfix.pdb
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.AssemblyInfoInputs.cache
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.AssemblyInfo.cs
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.sourcelink.json
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.dll
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\refint\Infix to Postfix.dll
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.pdb
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\Infix to Postfix.genruntimeconfig.cache
+E:\Problem-Solving\Data Structure\Infix to Postfix\Infix to Postfix\obj\Debug\net8.0\ref\Infix to Postfix.dll
