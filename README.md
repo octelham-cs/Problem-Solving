@@ -1,2 +1,6 @@
 # Problem-Solving
-This repository contains my solution for data structure, algorithms and operating system 
+This repository contains my solution for 
+Data Structure
+Algorithms
+Operating System 
+
