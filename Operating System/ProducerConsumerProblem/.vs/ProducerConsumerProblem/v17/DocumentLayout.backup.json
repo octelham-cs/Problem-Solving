@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Problem-Solving\\Operating System\\ProducerConsumerProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EA3142-FB47-44E7-95A1-EAF03853B9AA}|ProducerConsumerProblem\\ProducerConsumerProblem.csproj|e:\\problem-solving\\operating system\\producerconsumerproblem\\producerconsumerproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EA3142-FB47-44E7-95A1-EAF03853B9AA}|ProducerConsumerProblem\\ProducerConsumerProblem.csproj|solutionrelative:producerconsumerproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Problem-Solving\\Operating System\\ProducerConsumerProblem\\ProducerConsumerProblem\\Program.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerProblem\\Program.cs",
+              "ToolTip": "E:\\Problem-Solving\\Operating System\\ProducerConsumerProblem\\ProducerConsumerProblem\\Program.cs",
+              "RelativeToolTip": "ProducerConsumerProblem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:17:20.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

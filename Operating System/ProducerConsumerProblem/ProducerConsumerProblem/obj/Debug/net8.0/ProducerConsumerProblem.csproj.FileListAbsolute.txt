@@ -1,0 +1,15 @@
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\bin\Debug\net8.0\ProducerConsumerProblem.exe
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\bin\Debug\net8.0\ProducerConsumerProblem.deps.json
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\bin\Debug\net8.0\ProducerConsumerProblem.runtimeconfig.json
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\bin\Debug\net8.0\ProducerConsumerProblem.dll
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\bin\Debug\net8.0\ProducerConsumerProblem.pdb
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.AssemblyInfoInputs.cache
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.AssemblyInfo.cs
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.sourcelink.json
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.dll
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\refint\ProducerConsumerProblem.dll
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.pdb
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ProducerConsumerProblem.genruntimeconfig.cache
+E:\Problem-Solving\Operating System\ProducerConsumerProblem\ProducerConsumerProblem\obj\Debug\net8.0\ref\ProducerConsumerProblem.dll
