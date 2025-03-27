@@ -1,0 +1,15 @@
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\bin\Debug\net8.0\TightlyCoupled.exe
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\bin\Debug\net8.0\TightlyCoupled.deps.json
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\bin\Debug\net8.0\TightlyCoupled.runtimeconfig.json
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\bin\Debug\net8.0\TightlyCoupled.dll
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\bin\Debug\net8.0\TightlyCoupled.pdb
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.AssemblyInfoInputs.cache
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.AssemblyInfo.cs
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.sourcelink.json
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.dll
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\refint\TightlyCoupled.dll
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.pdb
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\TightlyCoupled.genruntimeconfig.cache
+E:\Problem-Solving\Operating System\TightlyCoupled\TightlyCoupled\obj\Debug\net8.0\ref\TightlyCoupled.dll

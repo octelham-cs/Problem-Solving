@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Problem-Solving\\Operating System\\TightlyCoupled\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7FAF0-BB54-4CC8-9D3C-4CF11E76B4C9}|TightlyCoupled\\TightlyCoupled.csproj|e:\\problem-solving\\operating system\\tightlycoupled\\tightlycoupled\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7FAF0-BB54-4CC8-9D3C-4CF11E76B4C9}|TightlyCoupled\\TightlyCoupled.csproj|solutionrelative:tightlycoupled\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Problem-Solving\\Operating System\\TightlyCoupled\\TightlyCoupled\\Program.cs",
+              "RelativeDocumentMoniker": "TightlyCoupled\\Program.cs",
+              "ToolTip": "E:\\Problem-Solving\\Operating System\\TightlyCoupled\\TightlyCoupled\\Program.cs",
+              "RelativeToolTip": "TightlyCoupled\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:47:49.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
