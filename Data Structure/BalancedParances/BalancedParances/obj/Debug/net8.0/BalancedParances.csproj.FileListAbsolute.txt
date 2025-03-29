@@ -1,0 +1,15 @@
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\bin\Debug\net8.0\BalancedParances.exe
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\bin\Debug\net8.0\BalancedParances.deps.json
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\bin\Debug\net8.0\BalancedParances.runtimeconfig.json
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\bin\Debug\net8.0\BalancedParances.dll
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\bin\Debug\net8.0\BalancedParances.pdb
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.AssemblyInfoInputs.cache
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.AssemblyInfo.cs
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.sourcelink.json
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.dll
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\refint\BalancedParances.dll
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.pdb
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\BalancedParances.genruntimeconfig.cache
+E:\Problem-Solving\Data Structure\BalancedParances\BalancedParances\obj\Debug\net8.0\ref\BalancedParances.dll
