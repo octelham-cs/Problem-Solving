@@ -1,0 +1,15 @@
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\bin\Debug\net8.0\QueueArray.exe
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\bin\Debug\net8.0\QueueArray.deps.json
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\bin\Debug\net8.0\QueueArray.runtimeconfig.json
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\bin\Debug\net8.0\QueueArray.dll
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\bin\Debug\net8.0\QueueArray.pdb
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.AssemblyInfoInputs.cache
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.AssemblyInfo.cs
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.sourcelink.json
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.dll
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\refint\QueueArray.dll
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.pdb
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\QueueArray.genruntimeconfig.cache
+E:\Problem-Solving\Data Structure\QueueArray\QueueArray\obj\Debug\net8.0\ref\QueueArray.dll
