@@ -1,0 +1,15 @@
+E:\Problem-Solving\Data Structure\StackArray\StackArray\bin\Debug\net8.0\StackArray.exe
+E:\Problem-Solving\Data Structure\StackArray\StackArray\bin\Debug\net8.0\StackArray.deps.json
+E:\Problem-Solving\Data Structure\StackArray\StackArray\bin\Debug\net8.0\StackArray.runtimeconfig.json
+E:\Problem-Solving\Data Structure\StackArray\StackArray\bin\Debug\net8.0\StackArray.dll
+E:\Problem-Solving\Data Structure\StackArray\StackArray\bin\Debug\net8.0\StackArray.pdb
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfoInputs.cache
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.AssemblyInfo.cs
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.sourcelink.json
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.dll
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\refint\StackArray.dll
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.pdb
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\StackArray.genruntimeconfig.cache
+E:\Problem-Solving\Data Structure\StackArray\StackArray\obj\Debug\net8.0\ref\StackArray.dll
