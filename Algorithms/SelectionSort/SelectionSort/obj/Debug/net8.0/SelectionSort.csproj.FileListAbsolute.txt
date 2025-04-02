@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\bin\Debug\net8.0\SelectionSort.exe
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\bin\Debug\net8.0\SelectionSort.deps.json
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\bin\Debug\net8.0\SelectionSort.runtimeconfig.json
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\bin\Debug\net8.0\SelectionSort.dll
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\bin\Debug\net8.0\SelectionSort.pdb
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.sourcelink.json
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.dll
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\refint\SelectionSort.dll
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.pdb
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\SelectionSort.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\SelectionSort\SelectionSort\obj\Debug\net8.0\ref\SelectionSort.dll
