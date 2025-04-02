@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\net8.0\MergeSortAlgorithm.exe
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\net8.0\MergeSortAlgorithm.deps.json
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\net8.0\MergeSortAlgorithm.runtimeconfig.json
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\net8.0\MergeSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\net8.0\MergeSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.sourcelink.json
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\refint\MergeSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\MergeSortAlgorithm.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\net8.0\ref\MergeSortAlgorithm.dll
