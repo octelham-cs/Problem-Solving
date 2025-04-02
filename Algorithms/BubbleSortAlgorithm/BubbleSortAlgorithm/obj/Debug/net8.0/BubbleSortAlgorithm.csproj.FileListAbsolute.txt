@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.exe
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.deps.json
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.runtimeconfig.json
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.sourcelink.json
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\refint\BubbleSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\ref\BubbleSortAlgorithm.dll
