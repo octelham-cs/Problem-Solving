@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.exe
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.deps.json
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.runtimeconfig.json
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.sourcelink.json
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\refint\QuickSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\QuickSortAlgorithm\QuickSortAlgorithm\obj\Debug\net8.0\ref\QuickSortAlgorithm.dll
