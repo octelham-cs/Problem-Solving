@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net8.0\InsertionSortAlgorithm.exe
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net8.0\InsertionSortAlgorithm.deps.json
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net8.0\InsertionSortAlgorithm.runtimeconfig.json
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net8.0\InsertionSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net8.0\InsertionSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.sourcelink.json
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\refint\InsertionSortAlgorithm.dll
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.pdb
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\InsertionSortAlgorithm.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net8.0\ref\InsertionSortAlgorithm.dll
