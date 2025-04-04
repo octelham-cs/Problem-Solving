@@ -37,6 +37,8 @@
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("Elham Bakrey Mohammed");
+            Console.WriteLine("إلهام بكرى محمد");
             int[] Array = { 3, 90, 1, 6, 2, 5 };
 
             Console.WriteLine("Array Before Sorted: ");

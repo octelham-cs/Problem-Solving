@@ -31,7 +31,7 @@
         }
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Elham Bakrey Mohammed");
             Console.WriteLine("إلهام بكرى محمد خيشه");
 
             int[] numbers = { 4, 1, 6, 2, 5, 3, 7 };

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertionSortAlgorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a40601f9aef2668e8ec549c1a30a5feafafd6643")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe30eabf6526335911a218150777cbfdabf7024a")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertionSortAlgorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertionSortAlgorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

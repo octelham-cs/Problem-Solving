@@ -29,6 +29,8 @@
         }
         static void Main(string[] args)
         {
+            Console.WriteLine("إلهام بكرى محمد");
+            Console.WriteLine("Elham Bakrey Mohammed");
             int[] numbers = { 5, 1, 6, 2, 4,7,3 };
 
             Console.WriteLine("Unsorted Array: ");
