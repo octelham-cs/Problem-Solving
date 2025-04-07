@@ -1,0 +1,15 @@
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\bin\Debug\net8.0\QueueLinkedList.exe
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\bin\Debug\net8.0\QueueLinkedList.deps.json
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\bin\Debug\net8.0\QueueLinkedList.runtimeconfig.json
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\bin\Debug\net8.0\QueueLinkedList.dll
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\bin\Debug\net8.0\QueueLinkedList.pdb
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.AssemblyInfoInputs.cache
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.AssemblyInfo.cs
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.sourcelink.json
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.dll
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\refint\QueueLinkedList.dll
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.pdb
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\QueueLinkedList.genruntimeconfig.cache
+E:\Problem-Solving\Data Structure\QueueLinkedList\QueueLinkedList\obj\Debug\net8.0\ref\QueueLinkedList.dll
