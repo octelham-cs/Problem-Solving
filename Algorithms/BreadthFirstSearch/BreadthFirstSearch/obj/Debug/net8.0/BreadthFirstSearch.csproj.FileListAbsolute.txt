@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\net8.0\BreadthFirstSearch.exe
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\net8.0\BreadthFirstSearch.deps.json
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\net8.0\BreadthFirstSearch.runtimeconfig.json
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\net8.0\BreadthFirstSearch.dll
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\net8.0\BreadthFirstSearch.pdb
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.sourcelink.json
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.dll
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\refint\BreadthFirstSearch.dll
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.pdb
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\BreadthFirstSearch.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\net8.0\ref\BreadthFirstSearch.dll
