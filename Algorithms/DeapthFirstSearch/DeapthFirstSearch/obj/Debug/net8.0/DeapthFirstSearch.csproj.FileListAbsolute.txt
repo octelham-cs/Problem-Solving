@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\bin\Debug\net8.0\DeapthFirstSearch.exe
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\bin\Debug\net8.0\DeapthFirstSearch.deps.json
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\bin\Debug\net8.0\DeapthFirstSearch.runtimeconfig.json
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\bin\Debug\net8.0\DeapthFirstSearch.dll
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\bin\Debug\net8.0\DeapthFirstSearch.pdb
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.sourcelink.json
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.dll
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\refint\DeapthFirstSearch.dll
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.pdb
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\DeapthFirstSearch.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\DeapthFirstSearch\DeapthFirstSearch\obj\Debug\net8.0\ref\DeapthFirstSearch.dll
