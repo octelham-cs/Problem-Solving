@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\BinarySearch\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll
