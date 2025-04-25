@@ -1,0 +1,15 @@
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\bin\Debug\net8.0\LinearSearch.exe
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\bin\Debug\net8.0\LinearSearch.deps.json
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\bin\Debug\net8.0\LinearSearch.runtimeconfig.json
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\bin\Debug\net8.0\LinearSearch.dll
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\bin\Debug\net8.0\LinearSearch.pdb
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfoInputs.cache
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfo.cs
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.csproj.CoreCompileInputs.cache
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.sourcelink.json
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.dll
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\refint\LinearSearch.dll
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.pdb
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\LinearSearch.genruntimeconfig.cache
+E:\Problem-Solving\Algorithms\LinearSearch\LinearSearch\obj\Debug\net8.0\ref\LinearSearch.dll
